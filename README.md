@@ -1,4 +1,4 @@
-@doop/service-{{FIXME}}
+@doop/service-timestamps
 ==================
 
-A {{FIXME}} service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
+A timestamps service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
