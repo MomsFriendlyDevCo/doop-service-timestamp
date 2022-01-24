@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-timestamps",
+  "name": "@doop/timestamps",
   "version": "1.0.0",
   "description": "A timestamps service for the Doop framework",
   "repository": {
